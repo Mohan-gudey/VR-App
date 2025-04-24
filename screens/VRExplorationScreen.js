@@ -1976,7 +1976,7 @@ const LANDMARKS = {
   'Agra, France': [
     {
       id: 1,
-      name: 'Eiffel Tower',
+      name: 'Taj Mahal',
       video: require('../assets/videos/tajmahal.mp4'), // Path to local video file
       description: 'Iconic iron tower on the Champ de Mars, named after engineer Gustave Eiffel.',
       facts: ['Completed in 1889', '330 meters tall', 'Over 7 million visitors annually']
